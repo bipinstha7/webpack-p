@@ -1,1 +1,1 @@
-console.log("webpack excitement");
+console.log('webpack excitement');
